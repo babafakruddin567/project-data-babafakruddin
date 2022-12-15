@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "category": "DEAL OF THE DAY"
+
+    },
+    {
+        "id":2,
+        "category": "BEST OF MYNTRA EXCLUSIVE BRANDS"
+    },
+    {
+        "id":3,
+        "category": "CATEGORIES TO BAG"
+    },
+    {
+        "id":4,
+        "category": "COLOURS OF THE SEASON"
+
+    },
+    {
+        "id":5,
+        "category": "TOP PICKS"
+
+    }
+
+]

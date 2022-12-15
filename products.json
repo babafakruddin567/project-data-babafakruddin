@@ -1,0 +1,626 @@
+[
+    {
+        "id": 1,
+        "product_name": "Men Solid Sweatshirt",
+        "category":"DEAL OF THE DAY",
+        "category_id": 1,
+        "Price": 1249,
+        "Size": "Xl",
+        "Image": "https://ibb.co/KbqWFwX",
+        "color": "Blue",
+        "Brand": "Wildcraft"
+
+
+    },
+    {
+        "id": 2,
+        "product_name": "Women Enchanting Solid Cropped Sweatshirt",
+        "category":"DEAL OF THE DAY",
+        "category_id": 1,
+        "Price": 666,
+        "Size": "Xl",
+        "Image": "https://ibb.co/1QrMHP6",
+        "color": "Sea Green",
+        "Brand": "STREET 9"
+
+
+    },
+    {
+        "id": 3,
+        "product_name": "Women Puff Sleeve Faux Fur Solid Sweatshirt",
+        "category":"DEAL OF THE DAY",
+        "category_id": 1,
+        "Price": 899,
+        "Size": "M",
+        "Image": "https://ibb.co/FnXqSYc",
+        "color": "Off-White",
+        "Brand": "SASSAFRAS"
+
+
+    },
+    {
+        "id": 4,
+        "product_name": "Men Black Zeta Mesh Running Shoes",
+        "category":"DEAL OF THE DAY",
+        "category_id": 1,
+        "Price": 899,
+        "Size": "9",
+        "Image": "https://ibb.co/rQCXXQq",
+        "color": "Black",
+        "Brand": "Puma"
+
+
+    },
+    {
+        "id": 5,
+        "product_name": "Unisex Grey Clogs with Cut-Outs",
+        "category":"DEAL OF THE DAY",
+        "category_id": 1,
+        "Price": 799,
+        "Size": "XL",
+        "Image": "https://ibb.co/Xppj7Nr",
+        "color": "Grey",
+        "Brand": "Crocks"
+
+
+    },
+    {
+        "id": 6,
+        "product_name": "Kids-Boys Maroon Ethnic Motifs Mirror Work Georgette Kurta And Pyjama Set",
+        "category":"DEAL OF THE DAY",
+        "category_id": 1,
+        "Price": 1199,
+        "Size": "L",
+        "Image": "https://ibb.co/Z6MLqFq",
+        "color": "Maroon",
+        "Brand": "VASTRAMAY"
+
+
+    },
+    {
+        "id": 7,
+        "product_name": "Mauve & White Geometric Printed Cotton 150 GSM Double King Bedding Set",
+        "category":"DEAL OF THE DAY",
+        "category_id": 1,
+        "Price": 999,
+        "Image": "https://ibb.co/YpLJJws",
+        "color": "white",
+        "Brand": "BIANCA"
+
+
+    },
+    {
+        "id": 8,
+        "product_name": "Red & Blue Printed Traditional Dance Patten Wall Art Mirror",
+        "category":"DEAL OF THE DAY",
+        "category_id": 1,
+        "Price": 699,
+        "Size": "XL",
+        "Image": "https://ibb.co/pR0hMdr",
+        "color": "red blue",
+        "Brand": "999Store"
+
+
+    },
+    {
+        "id": 9,
+        "product_name": "Copper-Toned & White Valentine Romantic Couple Showpiece",
+        "category":"DEAL OF THE DAY",
+        "category_id": 1,
+        "Price": 1699,
+        "Image": "https://ibb.co/smrwZ45",
+        "color": "White",
+        "Brand": "TIED RIBBONS"
+
+
+    },
+    {
+        "id": 10,
+        "product_name": "Men Limited Edition Incense Eau de Parfum- 100 ml",
+        "category":"DEAL OF THE DAY",
+        "category_id": 1,
+        "Price": 499,
+        "Image": "https://ibb.co/MgmLqfC",
+        "Brand": "Carlton London"
+
+
+    },
+
+
+
+
+// 2222222222
+
+{
+    "id": 1,
+    "product_name": "Men Yellow Printed Cotton Pure Cotton T-shirt",
+    "category":"BEST OF MYNTRA EXCLUSIVE BRANDS",
+    "category_id": 2,
+    "Price": 999,
+    "Size": "M",
+    "Image": "https://ibb.co/cQPJFZM",
+    "color": "Yellow",
+    "Brand": "HRX by Hrithik Roshan"
+
+
+},
+{
+    "id": 2,
+    "product_name": "Women Red Wrap Top",
+    "category":"BEST OF MYNTRA EXCLUSIVE BRANDS",
+    "category_id": 2,
+    "Price": 899,
+    "Size": "L",
+    "Image": "https://ibb.co/NjWdBTF",
+    "color": "Red",
+    "Brand": "Athena"
+
+
+},
+{
+    "id": 3,
+    "product_name": "Women Gorgeous Green Solid Batwing Sleeves Shirt Top",
+    "category":"BEST OF MYNTRA EXCLUSIVE BRANDS",
+    "category_id": 2,
+    "Price": 599,
+    "Size": "M",
+    "Image": "https://ibb.co/N34K2k6",
+    "color": "Green",
+    "Brand": "KASSUALLY"
+
+
+},
+{
+    "id": 4,
+    "product_name": "Men Blue Jeans",
+    "category":"BEST OF MYNTRA EXCLUSIVE BRANDS",
+    "category_id": 2,
+    "Price": 1199,
+    "Size": "34",
+    "Image": "https://ibb.co/MMq87j9",
+    "color": "Blue",
+    "Brand": "Louis Philippe Jeans"
+
+
+},
+{
+    "id": 5,
+    "product_name": "Bottega Betty Women Navy Blue Tote bag",
+    "category":"BEST OF MYNTRA EXCLUSIVE BRANDS",
+    "category_id": 2,
+    "Price": 799,
+    "Size": "XL",
+    "Image": "https://ibb.co/mXZWb3N",
+    "color": "Navy Blue",
+    "Brand": "Lavie"
+
+
+},
+{
+    "id": 6,
+    "product_name": "Men Pink Slim Fit Casual Shirt",
+    "category":"BEST OF MYNTRA EXCLUSIVE BRANDS",
+    "category_id": 2,
+    "Price": 499,
+    "Size": "L",
+    "Image": "https://ibb.co/ySnFdwv",
+    "color": "pink",
+    "Brand": "Dennis Lingo"
+
+
+},
+{
+    "id": 7,
+    "product_name": "Men Black Regular Fit Joggers",
+    "category":"BEST OF MYNTRA EXCLUSIVE BRANDS",
+    "category_id": 2,
+    "Price": 899,
+    "Size": "XL",
+    "Image": "https://ibb.co/h7JSVnL",
+    "color": "Grey",
+    "Brand": "H&M"
+
+
+},
+{
+    "id": 8,
+    "product_name": "Men Colourblocked Joggers",
+    "category":"BEST OF MYNTRA EXCLUSIVE BRANDS",
+    "category_id": 2,
+    "Price": 789,
+    "Size": "36",
+    "Image": "https://ibb.co/hXZcqGh",
+    "color": "multi",
+    "Brand": "CHKOKKO"
+
+
+},
+{
+    "id": 9,
+    "product_name": "Men Black & White Brand Logo Printed Pure Cotton T-shirt",
+    "category":"BEST OF MYNTRA EXCLUSIVE BRANDS",
+    "category_id": 2,
+    "Price": 399,
+    "Size": "M",
+    "Image": "https://ibb.co/h97h68W",
+    "color": "Black & White",
+    "Brand": "United Colors of Benetton"
+
+
+},
+{
+    "id": 10,
+    "product_name": "Women White & Blue Typography Printed Pure Cotton T-shirt",
+    "category":"BEST OF MYNTRA EXCLUSIVE BRANDS",
+    "category_id": 2,
+    "Price": 499,
+    "Size": "L",
+    "Image": "https://ibb.co/sqWfL4p",
+    "color": "White & Blue",
+    "Brand": "United Colors of Benetton"
+
+
+},
+
+// 33333333333
+
+{
+    "id": 1,
+    "product_name": "Women Red & Golden Printed A-Line Kurta",
+    "category":"CATEGORIES TO BAG",
+    "category_id": 3,
+    "Price": 899,
+    "Size": "L",
+    "Image": "https://ibb.co/1bzcL6t",
+    "color": "Red & Golden",
+    "Brand": "Vishudh"
+
+
+},
+{
+    "id": 2,
+    "product_name": "Women Yellow Cotton Floral Kurta",
+    "category":"CATEGORIES TO BAG",
+    "category_id": 3,
+    "Price": 599,
+    "Size": "XL",
+    "Image": "https://ibb.co/Z2NfYkw",
+    "color": "Yellow",
+    "Brand": "Karigari"
+
+
+},
+{
+    "id": 3,
+    "product_name": "Navy Blue & Pink Floral Zari Silk Blend Banarasi Saree",
+    "category":"CATEGORIES TO BAG",
+    "category_id": 3,
+    "Price": 999,
+    "Image": "https://ibb.co/HrPbVFW",
+    "color": "Blue",
+    "Brand": "Mitera"
+
+
+},
+{
+    "id": 4,
+    "product_name": "Black ColorFit Icon Buzz Bluetooth Calling Smart Watch with Voice Assistance",
+    "category":"CATEGORIES TO BAG",
+    "category_id": 3,
+    "Price": 1499,
+    "Image": "https://ibb.co/tKhTjsQ",
+    "color": "Black",
+    "Brand": "Noise"
+
+
+},
+{
+    "id": 5,
+    "product_name": "Unisex Pack of 2 Natural Bath Essentials (300 ml each)",
+    "category":"CATEGORIES TO BAG",
+    "category_id": 3,
+    "Price": 799,
+    "Image": "https://ibb.co/b3ShTGf",
+    "Brand": "ARATA"
+
+
+},
+{
+    "id": 6,
+    "product_name": "Magenta & Green Gold-Plated Stone-Studded & Beaded Handcrafted Jewellery Set",
+    "category":"CATEGORIES TO BAG",
+    "category_id": 3,
+    "Price": 1299,
+    "Image": "https://ibb.co/d7J0Fb4",
+    "color": "Green",
+    "Brand": "Priyaasi"
+
+
+},
+{
+    "id": 7,
+    "product_name": "Teen Girls Olive Green & Black Pure Cotton Pinafore Dress",
+    "category":"CATEGORIES TO BAG",
+    "category_id": 3,
+    "Price": 699,
+    "Size": "10-14YEARS",
+    "Image": "https://ibb.co/cyZgLHL",
+    "color": "Olive Green",
+    "Brand": "DressBerry"
+
+
+},
+{
+    "id": 8,
+    "product_name": "Luxury Set of 4 Perfume - 20ml each",
+    "category":"CATEGORIES TO BAG",
+    "category_id": 3,
+    "Price": 599,
+    "Image": "https://ibb.co/8xCKZF3",
+    "Brand": "Bella Vita Organic"
+
+
+},
+
+{
+    "id": 9,
+    "product_name": "Boys Black & Red Printed Sliders",
+    "category":"CATEGORIES TO BAG",
+    "category_id": 3,
+    "Price": 999,
+    "Size": "7",
+    "Image": "https://ibb.co/pWBn5KD",
+    "color": "Black & Red",
+    "Brand": "Fame Forever by Lifestyle"
+
+
+},
+{
+    "id": 10,
+    "product_name": "Men Black Solid Cargo Joggers",
+    "category":"CATEGORIES TO BAG",
+    "category_id": 3,
+    "Price": 799,
+    "Size": "34",
+    "Image": "https://ibb.co/9t2rxdv",
+    "color": "Black",
+    "Brand": "H&M"
+},
+// 4444444444444
+
+{
+    "id": 1,
+    "product_name": "Layered Drama Pant & Maxi Skirt",
+    "category":"COLOURS OF THE SEASON",
+    "category_id": 4,
+    "Price": 899,
+    "Size": "M",
+    "Image": "https://ibb.co/NK5vZtP",
+    "color": "Green",
+    "Brand": "Berrylush"
+},
+{
+    "id": 2,
+    "product_name": "Men Charcoal Grey Solid Cotton Thermal Set",
+    "category":"COLOURS OF THE SEASON",
+    "category_id": 4,
+    "Price": 1299,
+    "Image": "https://ibb.co/7RXzpc0",
+    "color": "Grey",
+    "Brand": "Dollar Ultra"
+},
+{
+    "id": 3,
+    "product_name": "Girls Pink Cable Knit Cotton Pullover with Embellished Detail",
+    "category":"COLOURS OF THE SEASON",
+    "category_id": 4,
+    "Price": 699,
+    "Size": "5-7 YEARS",
+    "Image": "https://ibb.co/rGY2N6Z",
+    "color": "Pink",
+    "Brand": "Fame Forever by Lifestyle"
+},
+{
+    "id": 4,
+    "product_name": "Unisex Kids Beige Printed Night suit",
+    "category":"COLOURS OF THE SEASON",
+    "category_id": 4,
+    "Price": 899,
+    "Size": "5-7 YEARS",
+    "Image": "https://ibb.co/JskN6zK",
+    "color": "Beige",
+    "Brand": "Cherry Crumble"
+},
+{
+    "id": 5,
+    "product_name": "Men Black Dial Chronograph Watch CH2600",
+    "category":"COLOURS OF THE SEASON",
+    "category_id": 4,
+    "Price": 2999,
+    "Image": "https://ibb.co/z50mTyF",
+    "color": "Black",
+    "Brand": "Fossil"
+},
+{
+    "id": 6,
+    "product_name": "White King Size 210 GSM Water Resistant Mattress Protector",
+    "category":"COLOURS OF THE SEASON",
+    "category_id": 4,
+    "Price": 799,
+    "Image": "https://ibb.co/tmRhVfy",
+    "color": "White",
+    "Brand": "Divine Casa"
+},
+{
+    "id": 7,
+    "product_name": "Men Green & White Slim Fit Printed Casual Shirt",
+    "category":"COLOURS OF THE SEASON",
+    "category_id": 4,
+    "Price": 299,
+    "Size": "L",
+    "Image": "https://ibb.co/QctsCK2",
+    "color": "Green & White",
+    "Brand": "HIGHLANDER"
+},
+{
+    "id": 8,
+    "product_name": "Women White Peanuts Printed Regular Fit Cotton Casual Shirt",
+    "category":"COLOURS OF THE SEASON",
+    "category_id": 4,
+    "Price": 599,
+    "Size": "M",
+    "Image": "https://ibb.co/sqWfL4p",
+    "color": "White",
+    "Brand": "The Souled Store"
+},
+{
+    "id": 9,
+    "product_name": "Green & Gold-Toned Ethnic Motifs Zari Pure Silk Banarasi Saree",
+    "category":"COLOURS OF THE SEASON",
+    "category_id": 4,
+    "Price": 1699,
+    "Image": "https://ibb.co/sgKQyXH",
+    "color": "Green & Gold",
+    "Brand": "Jinax"
+},
+{
+    "id": 10,
+    "product_name": "Blue Floral Embroidered Satin Saree",
+    "category":"COLOURS OF THE SEASON",
+    "category_id": 4,
+    "Price": 1199,
+    "Image": "https://ibb.co/FJ5HjK5",
+    "color": "Blue",
+    "Brand": "Anouk"
+},
+// 555555555
+
+{
+    "id": 1,
+    "product_name": "Women Gorgeous Green Floral Cinched Waist Dress",
+    "category":"TOP PICKS",
+    "category_id": 5,
+    "Price": 799,
+    "Size": "XL",
+    "Image": "https://ibb.co/m4WM1z0",
+    "color": "Green",
+    "Brand": "plusS"
+},
+{
+    "id": 2,
+    "product_name": "Men Teal Blue & White Woven Design RevelRun Shoes",
+    "category":"TOP PICKS",
+    "category_id": 5,
+    "Price": 999,
+    "Size": "7",
+    "Image": "https://ibb.co/sCwYWTz",
+    "color": "Blue",
+    "Brand": "ADIDAS"
+},
+{
+    "id": 3,
+    "product_name": "Women White & Pink Embellished Ethnic Mules Flats",
+    "category":"TOP PICKS",
+    "category_id": 5,
+    "Price": 1199,
+    "Size": "8",
+    "Image": "https://ibb.co/8xnvfwN",
+    "color": "White & Pink",
+    "Brand": "Kiana"
+},
+{
+    "id": 4,
+    "product_name": "Black Airdopes 131 M TWS IWP Type C Port Earbuds",
+    "category":"TOP PICKS",
+    "category_id": 5,
+    "Price": 699,
+    "Image": "https://ibb.co/dtK6mgf",
+    "color": "Black",
+    "Brand": "boAt"
+},
+{
+    "id": 5,
+    "product_name": "Makeup Revolution X Friends The Television Series Eyeshadow Palette - Flawless Limitless",
+    "category":"TOP PICKS",
+    "category_id": 5,
+    "Price": 1199,
+    "Image": "https://ibb.co/XY6LxJj",
+    
+    "Brand": "Makeup Revolution London"
+},
+{
+    "id": 6,
+    "product_name": "Pink Printed Water Repellent Shower Curtain With 12 Hooks",
+    "category":"TOP PICKS",
+    "category_id": 5,
+    "Price": 799,
+    "Size": "BIG",
+    "Image": "https://ibb.co/Zzg5kC3",
+    "color": "Pink",
+    "Brand": "OBSESSIONS"
+},
+{
+    "id": 7,
+    "product_name": "Boys Grey Navy Blue Striped Hooded Padded Jacket",
+    "category":"TOP PICKS",
+    "category_id": 5,
+    "Price": 1899,
+    "Size": "L",
+    "Image": "https://ibb.co/R7ZJvzC",
+    "color": "Grey",
+    "Brand": "Allen Solly Junior"
+},
+{
+    "id": 8,
+    "product_name": "White & Gold-Coloured Luxe Lunar Sleep Tracking Stress & Heart Rate Fitness Band",
+    "category":"TOP PICKS",
+    "category_id": 5,
+    "Price": 3999,
+    "Image": "https://ibb.co/x3pKs6r",
+    "color": "Gold",
+    "Brand": "Fitbit"
+},
+{
+    "id": 9,
+    "product_name": "Purple Embellished Aari Work Velvet Saree",
+    "category":"TOP PICKS",
+    "category_id": 5,
+    "Price": 1899,
+    "Image": "https://ibb.co/HpnhXfR",
+    "color": "Purple",
+    "Brand": "PMD Fashion"
+},
+{
+    "id": 10,
+    "product_name": "Women Black & Red Floral Fit And Flare Maxi Dress",
+    "category":"TOP PICKS",
+    "category_id": 5,
+    "Price": 699,
+    "Size": "M",
+    "Image": "https://ibb.co/cF7Qzmk",
+    "color": "Red",
+    "Brand": "ASPORA"
+}
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
